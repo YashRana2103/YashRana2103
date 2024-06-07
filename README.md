@@ -25,6 +25,6 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YashRana2103&icon=7&color=3)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=YashRana2103&icon=7&color=3)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
