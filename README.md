@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=YashRana2103&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://meme-api.com/gimme' style="height: 400px;"/>
+<img src='(https://memer-new.vercel.app/)' style="height: 400px;"/>
 
 ---
 ![](https://visitcount.itsvg.in/api?id=YashRana2103&icon=7&color=3)
