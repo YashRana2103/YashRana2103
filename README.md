@@ -1,4 +1,4 @@
-# 💫 About Me:
+  # 💫 About Me:
 🔭 I’m currently a student<br>👯 I’m looking to collaborate on coding projects<br>🌱 I’m currently learning DSA
 
 
@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=YashRana2103&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='[https://meme-api.com/gimme]' style="height: 400px;"/>
+<img src='https://meme-api.com/gimme' style="height: 400px;"/>
 
 ---
 ![](https://visitcount.itsvg.in/api?id=YashRana2103&icon=7&color=3)
