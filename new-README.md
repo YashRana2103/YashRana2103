@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Spring Boot - Java**
 
-- 📫 How to reach me **www.linkedin.com/in/yash-rana-785b2a277**
+- 📫 How to [reach me](www.linkedin.com/in/yash-rana-785b2a277)
 
-- 📄 Know about my experiences [https://raw.githubusercontent.com/YashRana2103/docs/main/Yash_CV_latest.pdf](https://raw.githubusercontent.com/YashRana2103/docs/main/Yash_CV_latest.pdf)
+- [📄 Know about my experiences](https://raw.githubusercontent.com/YashRana2103/docs/main/Yash_CV_latest.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
