@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashrana2103&label=Profile%20views&color=0e75b6&style=flat" alt="yashrana2103" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YashRana2103" alt="YashRana2103" /></a> </p>
-
 - 🌱 I’m currently learning **Spring Boot - Java**
 
 - 📫 How to [reach me](https://www.linkedin.com/in/yash-rana-785b2a277)
